@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="hello">Hello</string>
+    <string name="there">There</string>
+    <string name="dot">.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="createAcc">Create an account</string>
+
+
+</resources>
