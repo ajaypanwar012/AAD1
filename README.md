@@ -9,8 +9,8 @@ Customized button and textviews with proper resource files
 Used
 ->Linear layout
 ->EditText for username and passwords
-->button
-->backgroung of text field and button is cutomized with gradient colour
+->button for submit
+->backgroung of text field and button
 ->for better practice use resources like strings,drawable and colors, dont hardcode.
 
 Resources to learn 
